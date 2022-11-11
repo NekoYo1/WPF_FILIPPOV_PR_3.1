@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:WPF_FILIPPOV_PR_3._1"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid Background="#FF5B9BD5">
+    <Grid Background="Blue">
         <Grid.RowDefinitions>
             <RowDefinition Height="50"/>
             <RowDefinition Height="*"/>
@@ -21,7 +21,7 @@
                 </TransformGroup>
             </Label.RenderTransform> Счётчик
         </Label>
-        <Grid Grid.Row="1" Background="#FF5B9BD5">
+        <Grid Grid.Row="1" Background="Blue">
             <Grid.RowDefinitions>
                 <RowDefinition Height="90"/>
                 <RowDefinition Height="285"/>
